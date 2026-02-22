@@ -1,0 +1,16 @@
+# Local environment variables containing Spotify Secrets
+.env
+
+# Python cache and temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
